@@ -1,29 +1,21 @@
-[Libraries]
-[Ll]ibrary/
-[Tt]emp/
-[Bb]uild/
-[Bb]uilds/
-[Oo]bj/
-[Mm]emoryCaptures/
-sysinfo.txt
 
-# Visual Studio
-.vs/
-.vscode/
-*.csproj
-*.unityproj
-*.sln
-*.suo
+# RPG Maker - Fichiers inutiles à suivre dans le dépôt
+
+# Sauvegardes et backups
+save/
+backup/
+*.bak
 *.tmp
-*.user
-*.userprefs
-*.pidb
-*.booproj
 
-# Mac
+# Fichiers système
 .DS_Store
+Thumbs.db
+desktop.ini
 
-# Autres
-*.apk
+# Fichiers de configuration utilisateur
 *.log
-*.lock
+
+# Cache de build éventuel (si plugins/scripts en génèrent)
+build/
+dist/
+
