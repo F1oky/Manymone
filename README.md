@@ -1,7 +1,13 @@
-# Manymone
+# Projet M
 
-Jeu mobile rogue like
+Jeu mobile de type RogueLike
 
-Nous cherchons des devs ou graphistes pour nous aider a la conception du jeu vous pouvez nous contacter sur ce discord
+Si vous êtes intéressé sachez que nous recherchons des développeurs ou des graphistes pour nous aider à la conception du jeu ! 
+
+Si vous avez des questions,souhaitez nous rejoindre ou apporter votre expertise/suggestion n'hésitez pas à nous rejoindre sur le discord
 
 https://discord.gg/nQR3rGF9gQ
+
+Discord du Chef de projet et Game Designer : f1oky_
+
+Discord Chargé de rédaction et Community Manager : _xelito_
