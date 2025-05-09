@@ -1,0 +1,20 @@
+
+# RPG Maker - Fichiers inutiles à suivre dans le dépôt
+
+# Sauvegardes et backups
+save/
+backup/
+*.bak
+*.tmp
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers de configuration utilisateur
+*.log
+
+# Cache de build éventuel (si plugins/scripts en génèrent)
+build/
+dist/
