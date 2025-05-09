@@ -10,4 +10,4 @@ https://discord.gg/nQR3rGF9gQ
 
 Discord du Chef de projet et Game Designer : f1oky_
 
-Discord Chargé de rédaction et Community Manager : _xelito_
+Discord Chargé de rédaction et Community Manager : _ xelito_
