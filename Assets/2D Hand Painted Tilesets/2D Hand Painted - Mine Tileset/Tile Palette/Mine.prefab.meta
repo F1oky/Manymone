@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 17a21d7e593624b4db14350d689f3388
+timeCreated: 1511313869
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105810
+  packageName: 2D Hand Painted - Mine Tileset
+  packageVersion: 2
+  assetPath: Assets/2D Hand Painted Tilesets/2D Hand Painted - Mine Tileset/Tile
+    Palette/Mine.prefab
+  uploadId: 394374

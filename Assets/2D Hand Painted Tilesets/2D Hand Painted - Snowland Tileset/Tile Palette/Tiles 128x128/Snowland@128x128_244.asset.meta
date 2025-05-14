@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 57a56e5b5995b8b4883826b1ad30dd7a
+timeCreated: 1532449641
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 124048
+  packageName: 2D Hand Painted - Snowland Tileset
+  packageVersion: 2
+  assetPath: Assets/2D Hand Painted Tilesets/2D Hand Painted - Snowland Tileset/Tile
+    Palette/Tiles 128x128/Snowland@128x128_244.asset
+  uploadId: 395269

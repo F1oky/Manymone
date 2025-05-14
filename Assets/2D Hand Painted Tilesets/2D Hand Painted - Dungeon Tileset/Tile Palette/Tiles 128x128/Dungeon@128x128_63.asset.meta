@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b48573a70f4075b4b8dc58f967876a5b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 42935
+  packageName: 2D Hand Painted - Dungeon Tileset
+  packageVersion: 2
+  assetPath: Assets/2D Hand Painted Tilesets/2D Hand Painted - Dungeon Tileset/Tile
+    Palette/Tiles 128x128/Dungeon@128x128_63.asset
+  uploadId: 394360

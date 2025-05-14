@@ -1,0 +1,6807 @@
+fileFormatVersion: 2
+guid: f27ace339dd66fe4fbe8617d93af74ae
+AssetOrigin:
+  serializedVersion: 1
+  productId: 124048
+  packageName: 2D Hand Painted - Snowland Tileset
+  packageVersion: 2
+  assetPath: Assets/2D Hand Painted Tilesets/2D Hand Painted - Snowland Tileset/Sprites/Tilesets
+    64x64/Snowland 2 Color 2@64x64.png
+  uploadId: 395269
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4600619682712810074
+    second: Snowland 2 Color 2@64x64_0
+  - first:
+      213: 5400009249262734285
+    second: Snowland 2 Color 2@64x64_1
+  - first:
+      213: 3619909560801197112
+    second: Snowland 2 Color 2@64x64_2
+  - first:
+      213: -5592604303696245251
+    second: Snowland 2 Color 2@64x64_3
+  - first:
+      213: 8141428592305243466
+    second: Snowland 2 Color 2@64x64_4
+  - first:
+      213: 6740112734220156690
+    second: Snowland 2 Color 2@64x64_5
+  - first:
+      213: 3312421838597608714
+    second: Snowland 2 Color 2@64x64_6
+  - first:
+      213: 6613765344525352364
+    second: Snowland 2 Color 2@64x64_7
+  - first:
+      213: -4133198344360059504
+    second: Snowland 2 Color 2@64x64_8
+  - first:
+      213: -8429172657164292899
+    second: Snowland 2 Color 2@64x64_9
+  - first:
+      213: -8460716875946573275
+    second: Snowland 2 Color 2@64x64_10
+  - first:
+      213: 1030223263658029022
+    second: Snowland 2 Color 2@64x64_11
+  - first:
+      213: -8369385406826548057
+    second: Snowland 2 Color 2@64x64_12
+  - first:
+      213: 578609399611227973
+    second: Snowland 2 Color 2@64x64_13
+  - first:
+      213: -7370775693845276941
+    second: Snowland 2 Color 2@64x64_14
+  - first:
+      213: -2447788828522614626
+    second: Snowland 2 Color 2@64x64_15
+  - first:
+      213: -7006833149919578026
+    second: Snowland 2 Color 2@64x64_16
+  - first:
+      213: 1136804481402244418
+    second: Snowland 2 Color 2@64x64_17
+  - first:
+      213: -6517382011199398962
+    second: Snowland 2 Color 2@64x64_18
+  - first:
+      213: -3343152186080656495
+    second: Snowland 2 Color 2@64x64_19
+  - first:
+      213: 1144873029900125720
+    second: Snowland 2 Color 2@64x64_20
+  - first:
+      213: -3127769196203118974
+    second: Snowland 2 Color 2@64x64_21
+  - first:
+      213: -1702041367042280668
+    second: Snowland 2 Color 2@64x64_22
+  - first:
+      213: -1463983527095338256
+    second: Snowland 2 Color 2@64x64_23
+  - first:
+      213: -2550104131708716341
+    second: Snowland 2 Color 2@64x64_24
+  - first:
+      213: -4771477127644895636
+    second: Snowland 2 Color 2@64x64_25
+  - first:
+      213: -9030675540862085586
+    second: Snowland 2 Color 2@64x64_26
+  - first:
+      213: 3520209080160746255
+    second: Snowland 2 Color 2@64x64_27
+  - first:
+      213: -190982471768091455
+    second: Snowland 2 Color 2@64x64_28
+  - first:
+      213: 1814594620849595358
+    second: Snowland 2 Color 2@64x64_29
+  - first:
+      213: -7055295454510833774
+    second: Snowland 2 Color 2@64x64_30
+  - first:
+      213: 8176932201290048237
+    second: Snowland 2 Color 2@64x64_31
+  - first:
+      213: -9081257556391416023
+    second: Snowland 2 Color 2@64x64_32
+  - first:
+      213: -1909183583616562669
+    second: Snowland 2 Color 2@64x64_33
+  - first:
+      213: -3149617270134629111
+    second: Snowland 2 Color 2@64x64_34
+  - first:
+      213: 1927503517360992812
+    second: Snowland 2 Color 2@64x64_35
+  - first:
+      213: -6191898621656420723
+    second: Snowland 2 Color 2@64x64_36
+  - first:
+      213: -863703638339892310
+    second: Snowland 2 Color 2@64x64_37
+  - first:
+      213: -4158826434734820600
+    second: Snowland 2 Color 2@64x64_38
+  - first:
+      213: 8336303923762987613
+    second: Snowland 2 Color 2@64x64_39
+  - first:
+      213: -2859866754103955447
+    second: Snowland 2 Color 2@64x64_40
+  - first:
+      213: -5078459859537958771
+    second: Snowland 2 Color 2@64x64_41
+  - first:
+      213: 2783844418961744151
+    second: Snowland 2 Color 2@64x64_42
+  - first:
+      213: 1842766265615906954
+    second: Snowland 2 Color 2@64x64_43
+  - first:
+      213: 2532019232091939564
+    second: Snowland 2 Color 2@64x64_44
+  - first:
+      213: 8243604857050021842
+    second: Snowland 2 Color 2@64x64_45
+  - first:
+      213: 5123057693190104711
+    second: Snowland 2 Color 2@64x64_46
+  - first:
+      213: 1122964649627571425
+    second: Snowland 2 Color 2@64x64_47
+  - first:
+      213: 2525869162276827664
+    second: Snowland 2 Color 2@64x64_48
+  - first:
+      213: 8450349365308495780
+    second: Snowland 2 Color 2@64x64_49
+  - first:
+      213: 7401396378876373176
+    second: Snowland 2 Color 2@64x64_50
+  - first:
+      213: -5969075991503203864
+    second: Snowland 2 Color 2@64x64_51
+  - first:
+      213: -7908448719316528931
+    second: Snowland 2 Color 2@64x64_52
+  - first:
+      213: -4670562540994126551
+    second: Snowland 2 Color 2@64x64_53
+  - first:
+      213: 825472223927721270
+    second: Snowland 2 Color 2@64x64_54
+  - first:
+      213: -9062349436473497791
+    second: Snowland 2 Color 2@64x64_55
+  - first:
+      213: -3358025797211525799
+    second: Snowland 2 Color 2@64x64_56
+  - first:
+      213: -2880259125392807751
+    second: Snowland 2 Color 2@64x64_57
+  - first:
+      213: 1799156530237971767
+    second: Snowland 2 Color 2@64x64_58
+  - first:
+      213: 7471412301411817757
+    second: Snowland 2 Color 2@64x64_59
+  - first:
+      213: -6095869311973762697
+    second: Snowland 2 Color 2@64x64_60
+  - first:
+      213: 4430942439699331958
+    second: Snowland 2 Color 2@64x64_61
+  - first:
+      213: -8364524316981834482
+    second: Snowland 2 Color 2@64x64_62
+  - first:
+      213: -4747883717088788546
+    second: Snowland 2 Color 2@64x64_63
+  - first:
+      213: 4022163070381915710
+    second: Snowland 2 Color 2@64x64_64
+  - first:
+      213: -3033482829792929271
+    second: Snowland 2 Color 2@64x64_65
+  - first:
+      213: 2179088668679499761
+    second: Snowland 2 Color 2@64x64_66
+  - first:
+      213: -643614135702277791
+    second: Snowland 2 Color 2@64x64_67
+  - first:
+      213: -8279655540897499657
+    second: Snowland 2 Color 2@64x64_68
+  - first:
+      213: -6856893644128808557
+    second: Snowland 2 Color 2@64x64_69
+  - first:
+      213: 380996569386109170
+    second: Snowland 2 Color 2@64x64_70
+  - first:
+      213: -1231681282293254878
+    second: Snowland 2 Color 2@64x64_71
+  - first:
+      213: 4225397253457733286
+    second: Snowland 2 Color 2@64x64_72
+  - first:
+      213: 9129522323053177827
+    second: Snowland 2 Color 2@64x64_73
+  - first:
+      213: -4123857493187945278
+    second: Snowland 2 Color 2@64x64_74
+  - first:
+      213: -7455887256488977035
+    second: Snowland 2 Color 2@64x64_75
+  - first:
+      213: 6996173181021002289
+    second: Snowland 2 Color 2@64x64_76
+  - first:
+      213: -2413855189685368677
+    second: Snowland 2 Color 2@64x64_77
+  - first:
+      213: 7424506496137139497
+    second: Snowland 2 Color 2@64x64_78
+  - first:
+      213: -265598236223959377
+    second: Snowland 2 Color 2@64x64_79
+  - first:
+      213: -2754533580290008222
+    second: Snowland 2 Color 2@64x64_80
+  - first:
+      213: 2750676850415204397
+    second: Snowland 2 Color 2@64x64_81
+  - first:
+      213: -1599638856680661314
+    second: Snowland 2 Color 2@64x64_82
+  - first:
+      213: 7108738842823310809
+    second: Snowland 2 Color 2@64x64_83
+  - first:
+      213: 7013771387449517597
+    second: Snowland 2 Color 2@64x64_84
+  - first:
+      213: -1490206009392081748
+    second: Snowland 2 Color 2@64x64_85
+  - first:
+      213: -1618692606459814367
+    second: Snowland 2 Color 2@64x64_86
+  - first:
+      213: -4041043879703136302
+    second: Snowland 2 Color 2@64x64_87
+  - first:
+      213: -5734044629578771993
+    second: Snowland 2 Color 2@64x64_88
+  - first:
+      213: 4068095847348380642
+    second: Snowland 2 Color 2@64x64_89
+  - first:
+      213: -3372185299161051362
+    second: Snowland 2 Color 2@64x64_90
+  - first:
+      213: 5987306046391281095
+    second: Snowland 2 Color 2@64x64_91
+  - first:
+      213: -6028000717234420398
+    second: Snowland 2 Color 2@64x64_92
+  - first:
+      213: -4040071294732337717
+    second: Snowland 2 Color 2@64x64_93
+  - first:
+      213: -2784031287474983363
+    second: Snowland 2 Color 2@64x64_94
+  - first:
+      213: -244760758902563952
+    second: Snowland 2 Color 2@64x64_95
+  - first:
+      213: 7696353628641714512
+    second: Snowland 2 Color 2@64x64_96
+  - first:
+      213: 5776067273590784607
+    second: Snowland 2 Color 2@64x64_97
+  - first:
+      213: 8613530264024679083
+    second: Snowland 2 Color 2@64x64_98
+  - first:
+      213: -3652773832266523245
+    second: Snowland 2 Color 2@64x64_99
+  - first:
+      213: -5100937913428037632
+    second: Snowland 2 Color 2@64x64_100
+  - first:
+      213: -4614582499943870679
+    second: Snowland 2 Color 2@64x64_101
+  - first:
+      213: -4966881418016636278
+    second: Snowland 2 Color 2@64x64_102
+  - first:
+      213: -228911652339175478
+    second: Snowland 2 Color 2@64x64_103
+  - first:
+      213: -8118863768662815444
+    second: Snowland 2 Color 2@64x64_104
+  - first:
+      213: -742179272166853059
+    second: Snowland 2 Color 2@64x64_105
+  - first:
+      213: 2475800801269940846
+    second: Snowland 2 Color 2@64x64_106
+  - first:
+      213: 6509710996945278719
+    second: Snowland 2 Color 2@64x64_107
+  - first:
+      213: 500178927642418558
+    second: Snowland 2 Color 2@64x64_108
+  - first:
+      213: 435147053680304419
+    second: Snowland 2 Color 2@64x64_109
+  - first:
+      213: 7652184249162555528
+    second: Snowland 2 Color 2@64x64_110
+  - first:
+      213: 2575870902192793102
+    second: Snowland 2 Color 2@64x64_111
+  - first:
+      213: -3988263221357352623
+    second: Snowland 2 Color 2@64x64_112
+  - first:
+      213: 5384141853550768971
+    second: Snowland 2 Color 2@64x64_113
+  - first:
+      213: -4958846196175897461
+    second: Snowland 2 Color 2@64x64_114
+  - first:
+      213: -294558923680943920
+    second: Snowland 2 Color 2@64x64_115
+  - first:
+      213: -7064344930620718362
+    second: Snowland 2 Color 2@64x64_116
+  - first:
+      213: 6369440720431508053
+    second: Snowland 2 Color 2@64x64_117
+  - first:
+      213: -6891202404894173503
+    second: Snowland 2 Color 2@64x64_118
+  - first:
+      213: 2053143268300342832
+    second: Snowland 2 Color 2@64x64_119
+  - first:
+      213: 2562628352152695862
+    second: Snowland 2 Color 2@64x64_120
+  - first:
+      213: 2980987822153114223
+    second: Snowland 2 Color 2@64x64_121
+  - first:
+      213: -7081463484103666688
+    second: Snowland 2 Color 2@64x64_122
+  - first:
+      213: -4881653241132245985
+    second: Snowland 2 Color 2@64x64_123
+  - first:
+      213: 6020760113100124207
+    second: Snowland 2 Color 2@64x64_124
+  - first:
+      213: 2492065886172385993
+    second: Snowland 2 Color 2@64x64_125
+  - first:
+      213: -42796908004147890
+    second: Snowland 2 Color 2@64x64_126
+  - first:
+      213: 7072192894557557172
+    second: Snowland 2 Color 2@64x64_127
+  - first:
+      213: 4926448180417421107
+    second: Snowland 2 Color 2@64x64_128
+  - first:
+      213: -4344627050029924872
+    second: Snowland 2 Color 2@64x64_129
+  - first:
+      213: 486747711621627769
+    second: Snowland 2 Color 2@64x64_130
+  - first:
+      213: -2325547301626525725
+    second: Snowland 2 Color 2@64x64_131
+  - first:
+      213: -6887885106814354092
+    second: Snowland 2 Color 2@64x64_132
+  - first:
+      213: 1818436005567737744
+    second: Snowland 2 Color 2@64x64_133
+  - first:
+      213: -7146571217723949738
+    second: Snowland 2 Color 2@64x64_134
+  - first:
+      213: 917715973594452106
+    second: Snowland 2 Color 2@64x64_135
+  - first:
+      213: 1355600764536172293
+    second: Snowland 2 Color 2@64x64_136
+  - first:
+      213: -2542612912376725524
+    second: Snowland 2 Color 2@64x64_137
+  - first:
+      213: -3378523533115126986
+    second: Snowland 2 Color 2@64x64_138
+  - first:
+      213: 4963472857203959702
+    second: Snowland 2 Color 2@64x64_139
+  - first:
+      213: 6308135313390225251
+    second: Snowland 2 Color 2@64x64_140
+  - first:
+      213: 3581436614855849542
+    second: Snowland 2 Color 2@64x64_141
+  - first:
+      213: 2920195223681850038
+    second: Snowland 2 Color 2@64x64_142
+  - first:
+      213: -5294458221970092401
+    second: Snowland 2 Color 2@64x64_143
+  - first:
+      213: -5276410045419089609
+    second: Snowland 2 Color 2@64x64_144
+  - first:
+      213: 7943321635784421759
+    second: Snowland 2 Color 2@64x64_145
+  - first:
+      213: -7914659420458693715
+    second: Snowland 2 Color 2@64x64_146
+  - first:
+      213: -669899420460738438
+    second: Snowland 2 Color 2@64x64_147
+  - first:
+      213: -2372814856746952482
+    second: Snowland 2 Color 2@64x64_148
+  - first:
+      213: 2175407477302118670
+    second: Snowland 2 Color 2@64x64_149
+  - first:
+      213: -1709108248058199195
+    second: Snowland 2 Color 2@64x64_150
+  - first:
+      213: 6233124669772794439
+    second: Snowland 2 Color 2@64x64_151
+  - first:
+      213: -5762732822814140673
+    second: Snowland 2 Color 2@64x64_152
+  - first:
+      213: 1257494085249397426
+    second: Snowland 2 Color 2@64x64_153
+  - first:
+      213: 2853656085578668097
+    second: Snowland 2 Color 2@64x64_154
+  - first:
+      213: 4217549909482020354
+    second: Snowland 2 Color 2@64x64_155
+  - first:
+      213: -5414707899183280183
+    second: Snowland 2 Color 2@64x64_156
+  - first:
+      213: -4268211476404992410
+    second: Snowland 2 Color 2@64x64_157
+  - first:
+      213: -324311161925877318
+    second: Snowland 2 Color 2@64x64_158
+  - first:
+      213: 1223742205653259490
+    second: Snowland 2 Color 2@64x64_159
+  - first:
+      213: -1693600992620783643
+    second: Snowland 2 Color 2@64x64_160
+  - first:
+      213: -2206952498417619786
+    second: Snowland 2 Color 2@64x64_161
+  - first:
+      213: 6377171248083894330
+    second: Snowland 2 Color 2@64x64_162
+  - first:
+      213: -8740272054037777996
+    second: Snowland 2 Color 2@64x64_163
+  - first:
+      213: 8630211291822829712
+    second: Snowland 2 Color 2@64x64_164
+  - first:
+      213: -5231596127643859644
+    second: Snowland 2 Color 2@64x64_165
+  - first:
+      213: -1550940096802338041
+    second: Snowland 2 Color 2@64x64_166
+  - first:
+      213: 8669350737474855951
+    second: Snowland 2 Color 2@64x64_167
+  - first:
+      213: -4851671114225514284
+    second: Snowland 2 Color 2@64x64_168
+  - first:
+      213: -2659456142501985351
+    second: Snowland 2 Color 2@64x64_169
+  - first:
+      213: 2737922136888332195
+    second: Snowland 2 Color 2@64x64_170
+  - first:
+      213: 8515933306349121013
+    second: Snowland 2 Color 2@64x64_171
+  - first:
+      213: 7563371533871838937
+    second: Snowland 2 Color 2@64x64_172
+  - first:
+      213: -4465201010339715737
+    second: Snowland 2 Color 2@64x64_173
+  - first:
+      213: -2186534087833399272
+    second: Snowland 2 Color 2@64x64_174
+  - first:
+      213: -7411680945084766038
+    second: Snowland 2 Color 2@64x64_175
+  - first:
+      213: -3655750690557075441
+    second: Snowland 2 Color 2@64x64_176
+  - first:
+      213: -3595070708375798411
+    second: Snowland 2 Color 2@64x64_177
+  - first:
+      213: -1468931469194821294
+    second: Snowland 2 Color 2@64x64_178
+  - first:
+      213: -248132939130592401
+    second: Snowland 2 Color 2@64x64_179
+  - first:
+      213: 3678101523223437671
+    second: Snowland 2 Color 2@64x64_180
+  - first:
+      213: -53543343189598857
+    second: Snowland 2 Color 2@64x64_181
+  - first:
+      213: 7866524218614218516
+    second: Snowland 2 Color 2@64x64_182
+  - first:
+      213: 8166247397163496535
+    second: Snowland 2 Color 2@64x64_183
+  - first:
+      213: -4388810798977626051
+    second: Snowland 2 Color 2@64x64_184
+  - first:
+      213: -7764731777227513510
+    second: Snowland 2 Color 2@64x64_185
+  - first:
+      213: -1412805120827129110
+    second: Snowland 2 Color 2@64x64_186
+  - first:
+      213: 5257895502882406524
+    second: Snowland 2 Color 2@64x64_187
+  - first:
+      213: 5454432526490386071
+    second: Snowland 2 Color 2@64x64_188
+  - first:
+      213: 4917208602723612078
+    second: Snowland 2 Color 2@64x64_189
+  - first:
+      213: 117534605076074905
+    second: Snowland 2 Color 2@64x64_190
+  - first:
+      213: 4138496585177115091
+    second: Snowland 2 Color 2@64x64_191
+  - first:
+      213: 5283498649962070028
+    second: Snowland 2 Color 2@64x64_192
+  - first:
+      213: -7783965066395948932
+    second: Snowland 2 Color 2@64x64_193
+  - first:
+      213: -2457202447224969974
+    second: Snowland 2 Color 2@64x64_194
+  - first:
+      213: 6914834574613182069
+    second: Snowland 2 Color 2@64x64_195
+  - first:
+      213: 5906357850072417747
+    second: Snowland 2 Color 2@64x64_196
+  - first:
+      213: -541938145613424708
+    second: Snowland 2 Color 2@64x64_197
+  - first:
+      213: -1462813747900670768
+    second: Snowland 2 Color 2@64x64_198
+  - first:
+      213: -8703594144348561762
+    second: Snowland 2 Color 2@64x64_199
+  - first:
+      213: -1897179050415961238
+    second: Snowland 2 Color 2@64x64_200
+  - first:
+      213: -8852935418987583202
+    second: Snowland 2 Color 2@64x64_201
+  - first:
+      213: 8608401062168531323
+    second: Snowland 2 Color 2@64x64_202
+  - first:
+      213: 6233084500251587313
+    second: Snowland 2 Color 2@64x64_203
+  - first:
+      213: 952942894600710313
+    second: Snowland 2 Color 2@64x64_204
+  - first:
+      213: -4761117019055913465
+    second: Snowland 2 Color 2@64x64_205
+  - first:
+      213: 7615786154314170944
+    second: Snowland 2 Color 2@64x64_206
+  - first:
+      213: 2288269053605338570
+    second: Snowland 2 Color 2@64x64_207
+  - first:
+      213: -1178912443479051428
+    second: Snowland 2 Color 2@64x64_208
+  - first:
+      213: -8203928781164150312
+    second: Snowland 2 Color 2@64x64_209
+  - first:
+      213: 4658249500597200246
+    second: Snowland 2 Color 2@64x64_210
+  - first:
+      213: -52843549084414578
+    second: Snowland 2 Color 2@64x64_211
+  - first:
+      213: 3729360170108609943
+    second: Snowland 2 Color 2@64x64_212
+  - first:
+      213: -912076602332653419
+    second: Snowland 2 Color 2@64x64_213
+  - first:
+      213: 5789717053628347897
+    second: Snowland 2 Color 2@64x64_214
+  - first:
+      213: -8017159058442948451
+    second: Snowland 2 Color 2@64x64_215
+  - first:
+      213: -1918540236947071260
+    second: Snowland 2 Color 2@64x64_216
+  - first:
+      213: 5927806624408658438
+    second: Snowland 2 Color 2@64x64_217
+  - first:
+      213: -5507028370095312817
+    second: Snowland 2 Color 2@64x64_218
+  - first:
+      213: -5784534470352049634
+    second: Snowland 2 Color 2@64x64_219
+  - first:
+      213: 5260309831829853508
+    second: Snowland 2 Color 2@64x64_220
+  - first:
+      213: 1742121612243643585
+    second: Snowland 2 Color 2@64x64_221
+  - first:
+      213: -332113196171505466
+    second: Snowland 2 Color 2@64x64_222
+  - first:
+      213: 4001293946611800450
+    second: Snowland 2 Color 2@64x64_223
+  - first:
+      213: -1671748925249549972
+    second: Snowland 2 Color 2@64x64_224
+  - first:
+      213: -7221793567941373935
+    second: Snowland 2 Color 2@64x64_225
+  - first:
+      213: -4981073404208147099
+    second: Snowland 2 Color 2@64x64_226
+  - first:
+      213: -2726398217347338928
+    second: Snowland 2 Color 2@64x64_227
+  - first:
+      213: -4720252332892134089
+    second: Snowland 2 Color 2@64x64_228
+  - first:
+      213: 2562173220768760970
+    second: Snowland 2 Color 2@64x64_229
+  - first:
+      213: -3207467294373264298
+    second: Snowland 2 Color 2@64x64_230
+  - first:
+      213: -3950375576232575509
+    second: Snowland 2 Color 2@64x64_231
+  - first:
+      213: 1537866751166249571
+    second: Snowland 2 Color 2@64x64_232
+  - first:
+      213: -4462393267728169617
+    second: Snowland 2 Color 2@64x64_233
+  - first:
+      213: 4688355059121156997
+    second: Snowland 2 Color 2@64x64_234
+  - first:
+      213: 4608470111023113967
+    second: Snowland 2 Color 2@64x64_235
+  - first:
+      213: 1834883872151848804
+    second: Snowland 2 Color 2@64x64_236
+  - first:
+      213: -7500219311055549144
+    second: Snowland 2 Color 2@64x64_237
+  - first:
+      213: -3756192701471177787
+    second: Snowland 2 Color 2@64x64_238
+  - first:
+      213: -1045677397571819916
+    second: Snowland 2 Color 2@64x64_239
+  - first:
+      213: 8125027338017003318
+    second: Snowland 2 Color 2@64x64_240
+  - first:
+      213: -6605431817221505165
+    second: Snowland 2 Color 2@64x64_241
+  - first:
+      213: 1598788361411824565
+    second: Snowland 2 Color 2@64x64_242
+  - first:
+      213: -4313193852522710555
+    second: Snowland 2 Color 2@64x64_243
+  - first:
+      213: -1790640594566352971
+    second: Snowland 2 Color 2@64x64_244
+  - first:
+      213: 720998912620519009
+    second: Snowland 2 Color 2@64x64_245
+  - first:
+      213: 412870963566682505
+    second: Snowland 2 Color 2@64x64_246
+  - first:
+      213: -8674228645346453439
+    second: Snowland 2 Color 2@64x64_247
+  - first:
+      213: -7588290117713192464
+    second: Snowland 2 Color 2@64x64_248
+  - first:
+      213: 2546964468857737509
+    second: Snowland 2 Color 2@64x64_249
+  - first:
+      213: -894222936505630030
+    second: Snowland 2 Color 2@64x64_250
+  - first:
+      213: 8503245036904215621
+    second: Snowland 2 Color 2@64x64_251
+  - first:
+      213: 5138699153995671547
+    second: Snowland 2 Color 2@64x64_252
+  - first:
+      213: 8723508839913414435
+    second: Snowland 2 Color 2@64x64_253
+  - first:
+      213: 5832539235293709448
+    second: Snowland 2 Color 2@64x64_254
+  - first:
+      213: -7417607313558009569
+    second: Snowland 2 Color 2@64x64_255
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5274cee93fa8df30800000000000000
+      internalID: 4600619682712810074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb012e3dcfa0fa40800000000000000
+      internalID: 5400009249262734285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c789201908c3230800000000000000
+      internalID: 3619909560801197112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd4dd444041362b0800000000000000
+      internalID: -5592604303696245251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4500986b2a2cf070800000000000000
+      internalID: 8141428592305243466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f774532d0b98d50800000000000000
+      internalID: 6740112734220156690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a055bdbbc1618fd20800000000000000
+      internalID: 3312421838597608714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadf8342a80d8cb50800000000000000
+      internalID: 6613765344525352364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d9f22210ee3a6c0800000000000000
+      internalID: -4133198344360059504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc6943c020950b80800000000000000
+      internalID: -8429172657164292899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5224d0004de759a80800000000000000
+      internalID: -8460716875946573275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf2ea599961c4e00800000000000000
+      internalID: 1030223263658029022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4f3cdb058f9db80800000000000000
+      internalID: -8369385406826548057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f778fee22a70800800000000000000
+      internalID: 578609399611227973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6d449fe8eb5b990800000000000000
+      internalID: -7370775693845276941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e907db68705b70ed0800000000000000
+      internalID: -2447788828522614626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658bc9abf5ab2ce90800000000000000
+      internalID: -7006833149919578026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d8d0d17adb6cf00800000000000000
+      internalID: 1136804481402244418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb50f4679b9d85a0800000000000000
+      internalID: -6517382011199398962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193879eacccba91d0800000000000000
+      internalID: -3343152186080656495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8164f1474f763ef00800000000000000
+      internalID: 1144873029900125720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e67e8dc7ee794d0800000000000000
+      internalID: -3127769196203118974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423bc6cf4622168e0800000000000000
+      internalID: -1702041367042280668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa75761db2eeabe0800000000000000
+      internalID: -1463983527095338256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_24
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcafe31adc53c9cd0800000000000000
+      internalID: -2550104131708716341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_25
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6623d035de48cdb0800000000000000
+      internalID: -4771477127644895636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e265b1131789ca280800000000000000
+      internalID: -9030675540862085586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_27
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bf51ee18b4ad030800000000000000
+      internalID: 3520209080160746255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4dfeb247e795df0800000000000000
+      internalID: -190982471768091455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_29
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3231b813cbe2910800000000000000
+      internalID: 1814594620849595358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_30
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f14782a2e861e90800000000000000
+      internalID: -7055295454510833774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_31
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2a85a838c4a7170800000000000000
+      internalID: 8176932201290048237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f2575fd54e8f180800000000000000
+      internalID: -9081257556391416023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a078f55a73185e0800000000000000
+      internalID: -1909183583616562669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d903bb7cf4a44d0800000000000000
+      internalID: -3149617270134629111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c223e979c3edfba10800000000000000
+      internalID: 1927503517360992812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e20fa7205f11aa0800000000000000
+      internalID: -6191898621656420723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabc985fd128304f0800000000000000
+      internalID: -863703638339892310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803702b5461e846c0800000000000000
+      internalID: -4158826434734820600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d528693404080b370800000000000000
+      internalID: 8336303923762987613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_40
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9003fa0e656bf48d0800000000000000
+      internalID: -2859866754103955447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_41
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88e8222aafa589b0800000000000000
+      internalID: -5078459859537958771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_42
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7112b26efb332a620800000000000000
+      internalID: 2783844418961744151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_43
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88fb1ab722d29910800000000000000
+      internalID: 1842766265615906954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_44
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce22c4d831a832320800000000000000
+      internalID: 2532019232091939564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_45
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfb625e0fa276270800000000000000
+      internalID: 8243604857050021842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_46
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786ad6e24d1c81740800000000000000
+      internalID: 5123057693190104711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_47
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e45f5c2662959f00800000000000000
+      internalID: 1122964649627571425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012bf96de90bd0320800000000000000
+      internalID: 2525869162276827664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a71923d9fba54570800000000000000
+      internalID: 8450349365308495780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8e9c4daca07b660800000000000000
+      internalID: 7401396378876373176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e19321e205992da0800000000000000
+      internalID: -5969075991503203864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0deb06acb8f3290800000000000000
+      internalID: -7908448719316528931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d9cca5d14de2fb0800000000000000
+      internalID: -4670562540994126551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dd9273d9aa47b00800000000000000
+      internalID: 825472223927721270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_55
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1472980b3311c3280800000000000000
+      internalID: -9062349436473497791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_56
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95deb9a3455e561d0800000000000000
+      internalID: -3358025797211525799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_57
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b862e1f5934708d0800000000000000
+      internalID: -2880259125392807751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d9828f453e7f810800000000000000
+      internalID: 1799156530237971767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_59
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19922427e9cfa760800000000000000
+      internalID: 7471412301411817757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_60
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7795996782f176ba0800000000000000
+      internalID: -6095869311973762697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_61
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b3b7a3caedd7d30800000000000000
+      internalID: 4430942439699331958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_62
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d4e2b637d3beb80800000000000000
+      internalID: -8364524316981834482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_63
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfbf082ae02c1eb0800000000000000
+      internalID: -4747883717088788546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3efece800891d730800000000000000
+      internalID: 4022163070381915710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a12f93077e6e5d0800000000000000
+      internalID: -3033482829792929271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_66
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff68be499dad3e10800000000000000
+      internalID: 2179088668679499761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_67
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161bb058a5c6117f0800000000000000
+      internalID: -643614135702277791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5b53e2721c81d80800000000000000
+      internalID: -8279655540897499657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_69
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391911f5f8b67d0a0800000000000000
+      internalID: -6856893644128808557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_70
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8c6ea7c52994500800000000000000
+      internalID: 380996569386109170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_71
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225b964466038eee0800000000000000
+      internalID: -1231681282293254878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_72
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a662473a60a3aa30800000000000000
+      internalID: 4225397253457733286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_73
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb659abe2492be70800000000000000
+      internalID: 9129522323053177827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_74
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc1336857d15c6c0800000000000000
+      internalID: -4123857493187945278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_75
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ddc9f0b0e578890800000000000000
+      internalID: -7455887256488977035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_76
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a1fd9d076671160800000000000000
+      internalID: 6996173181021002289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_77
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98029f7e73408ed0800000000000000
+      internalID: -2413855189685368677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_78
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92595de4255290760800000000000000
+      internalID: 7424506496137139497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_79
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae86e4bfc7605cf0800000000000000
+      internalID: -265598236223959377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bdde88d4ee5c9d0800000000000000
+      internalID: -2754533580290008222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2873e0950e5c2620800000000000000
+      internalID: 2750676850415204397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe13a26fe0fcc9e0800000000000000
+      internalID: -1599638856680661314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd3187505057a260800000000000000
+      internalID: 7108738842823310809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_84
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d162ab49aebe55160800000000000000
+      internalID: 7013771387449517597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_85
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca45808a789b15be0800000000000000
+      internalID: -1490206009392081748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_86
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e596f86af3989e0800000000000000
+      internalID: -1618692606459814367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_87
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7378470045be7c0800000000000000
+      internalID: -4041043879703136302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_88
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e198b72ac49c60b0800000000000000
+      internalID: -5734044629578771993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_89
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e321759e97c47830800000000000000
+      internalID: 4068095847348380642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_90
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f06b646579331d0800000000000000
+      internalID: -3372185299161051362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_91
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c563b8802f271350800000000000000
+      internalID: 5987306046391281095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_92
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255417f094d385ca0800000000000000
+      internalID: -6028000717234420398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_93
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdf93a0098cee7c0800000000000000
+      internalID: -4040071294732337717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_94
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3eea726b422d59d0800000000000000
+      internalID: -2784031287474983363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_95
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b58a6f26f6a9cf0800000000000000
+      internalID: -244760758902563952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0516af429d0feca60800000000000000
+      internalID: 7696353628641714512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5243291596b82050800000000000000
+      internalID: 5776067273590784607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba284418328698770800000000000000
+      internalID: 8613530264024679083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d59e28d8dbe4dc0800000000000000
+      internalID: -3652773832266523245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000bcc06ef3d539b0800000000000000
+      internalID: -5100937913428037632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f8c185aa5b5ffb0800000000000000
+      internalID: -4614582499943870679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_102
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8241ad7aa7121bb0800000000000000
+      internalID: -4966881418016636278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_103
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf2065a01eb2dcf0800000000000000
+      internalID: -228911652339175478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_104
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d40110b60045f80800000000000000
+      internalID: -8118863768662815444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_105
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3636da52ef33b5f0800000000000000
+      internalID: -742179272166853059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_106
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62825e16bfcb5220800000000000000
+      internalID: 2475800801269940846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_107
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6906b69a3275a50800000000000000
+      internalID: 6509710996945278719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_108
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d134aa51ef0f600800000000000000
+      internalID: 500178927642418558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_109
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3212ca790f3f90600800000000000000
+      internalID: 435147053680304419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_110
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8806c271805023a60800000000000000
+      internalID: 7652184249162555528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_111
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06677020f45fb320800000000000000
+      internalID: 2575870902192793102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1596d3c1bb7d6a8c0800000000000000
+      internalID: -3988263221357352623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_113
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43f4394d7058ba40800000000000000
+      internalID: 5384141853550768971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_114
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c732d58a3ae2bb0800000000000000
+      internalID: -4958846196175897461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_115
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d07394383489ebf0800000000000000
+      internalID: -294558923680943920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_116
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2458fc6b766fd90800000000000000
+      internalID: -7064344930620718362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_117
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a6a37a69cc46850800000000000000
+      internalID: 6369440720431508053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_118
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c617f48ce78d50a0800000000000000
+      internalID: -6891202404894173503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_119
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036c60cacea3e7c10800000000000000
+      internalID: 2053143268300342832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_120
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634f76da8e8409320800000000000000
+      internalID: 2562628352152695862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_121
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62a33b51a89e5920800000000000000
+      internalID: 2980987822153114223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_122
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004d91cfa7699bd90800000000000000
+      internalID: -7081463484103666688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_123
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c9da5cd32e04cb0800000000000000
+      internalID: -4881653241132245985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_124
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f207c2b6c690e8350800000000000000
+      internalID: 6020760113100124207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_125
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c29c2e48b8959220800000000000000
+      internalID: 2492065886172385993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_126
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d7dec5074f76ff0800000000000000
+      internalID: -42796908004147890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_127
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1152fa7f9752260800000000000000
+      internalID: 7072192894557557172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f5626c4824e5440800000000000000
+      internalID: 4926448180417421107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_129
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdb96187b8c4b3c0800000000000000
+      internalID: -4344627050029924872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_130
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ff07ef67641c600800000000000000
+      internalID: 486747711621627769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_131
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7ce2aec0ff9bfd0800000000000000
+      internalID: -2325547301626525725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_132
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d70aa2df05960a0800000000000000
+      internalID: -6887885106814354092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_133
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f25ae99e16c3910800000000000000
+      internalID: 1818436005567737744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_134
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d7885775742dc90800000000000000
+      internalID: -7146571217723949738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_135
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a809cc2d0d16cbc00800000000000000
+      internalID: 917715973594452106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_136
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f2d6b86bf00d210800000000000000
+      internalID: 1355600764536172293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_137
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefb67c0703d6bcd0800000000000000
+      internalID: -2542612912376725524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_138
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b006f2fb21d11d0800000000000000
+      internalID: -3378523533115126986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_139
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6976fe9144cc1e440800000000000000
+      internalID: 4963472857203959702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_140
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367c8b545affa8750800000000000000
+      internalID: 6308135313390225251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_141
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6467f0e30a1d3b130800000000000000
+      internalID: 3581436614855849542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_142
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba5956851e968820800000000000000
+      internalID: 2920195223681850038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_143
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e83516c4e4686b0800000000000000
+      internalID: -5294458221970092401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7311e71f40d66c6b0800000000000000
+      internalID: -5276410045419089609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_145
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71fa9531f85c3e60800000000000000
+      internalID: 7943321635784421759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_146
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab4c55d03b792290800000000000000
+      internalID: -7914659420458693715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_147
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a789230c60a04b6f0800000000000000
+      internalID: -669899420460738438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_148
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed814d1a571121fd0800000000000000
+      internalID: -2372814856746952482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_149
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0942562399903e10800000000000000
+      internalID: 2175407477302118670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_150
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5630dc78a170848e0800000000000000
+      internalID: -1709108248058199195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_151
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a0886dcd1808650800000000000000
+      internalID: 6233124669772794439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_152
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6dda8a709a600b0800000000000000
+      internalID: -5762732822814140673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_153
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2f1724534837110800000000000000
+      internalID: 1257494085249397426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_154
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1485c0c27193a9720800000000000000
+      internalID: 2853656085578668097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_155
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e18211c4fb78a30800000000000000
+      internalID: 4217549909482020354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_156
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfcda2aad71bd4b0800000000000000
+      internalID: -5414707899183280183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_157
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66682a2b64444c4c0800000000000000
+      internalID: -4268211476404992410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_158
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1c6bc67b0df7bf0800000000000000
+      internalID: -324311161925877318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_159
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e49d986d0b9bf010800000000000000
+      internalID: 1223742205653259490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7d69bcede1f78e0800000000000000
+      internalID: -1693600992620783643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_161
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc28a745645f51e0800000000000000
+      internalID: -2206952498417619786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_162
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3000e16673408850800000000000000
+      internalID: 6377171248083894330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_163
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1fdc2ffd054b680800000000000000
+      internalID: -8740272054037777996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_164
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0903aa1f17ba4c770800000000000000
+      internalID: 8630211291822829712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_165
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4458a734a03a567b0800000000000000
+      internalID: -5231596127643859644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_166
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bcf2ef234f97ae0800000000000000
+      internalID: -1550940096802338041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_167
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04a5744098bf4870800000000000000
+      internalID: 8669350737474855951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_168
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8809da3d66bacb0800000000000000
+      internalID: -4851671114225514284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_169
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b340729ab6b71bd0800000000000000
+      internalID: -2659456142501985351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_170
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af48e76dad0ff520800000000000000
+      internalID: 2737922136888332195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_171
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd6bd7093cae2670800000000000000
+      internalID: 8515933306349121013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_172
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d67bbc665e76f860800000000000000
+      internalID: 7563371533871838937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_173
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7656cf7b65b6802c0800000000000000
+      internalID: -4465201010339715737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_174
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8105865f4ded7a1e0800000000000000
+      internalID: -2186534087833399272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_175
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8e0bff27b642990800000000000000
+      internalID: -7411680945084766038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00e4fdad1a244dc0800000000000000
+      internalID: -3655750690557075441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_177
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d39dcfc3ebb1ec0800000000000000
+      internalID: -3595070708375798411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_178
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251004b8c9e4d9be0800000000000000
+      internalID: -1468931469194821294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_179
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f632c0218647e8cf0800000000000000
+      internalID: -248132939130592401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_180
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7616e8319dd3b0330800000000000000
+      internalID: 3678101523223437671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_181
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77dd811fc96c14ff0800000000000000
+      internalID: -53543343189598857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_182
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ff18329128b2d60800000000000000
+      internalID: 7866524218614218516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_183
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75473e7bdb6545170800000000000000
+      internalID: 8166247397163496535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_184
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d305a8cc4dfc713c0800000000000000
+      internalID: -4388810798977626051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_185
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51aa2286912e3490800000000000000
+      internalID: -7764731777227513510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_186
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae20f3c5a35b46ce0800000000000000
+      internalID: -1412805120827129110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_187
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c700e633a1cc7f840800000000000000
+      internalID: 5257895502882406524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_188
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ebbc8eb7902bb40800000000000000
+      internalID: 5454432526490386071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_189
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5f5d3fb2f6d3440800000000000000
+      internalID: 4917208602723612078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_190
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9911060c91191a100800000000000000
+      internalID: 117534605076074905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_191
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d926afa7b4ee6930800000000000000
+      internalID: 4138496585177115091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00ce3a6702c25940800000000000000
+      internalID: 5283498649962070028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_193
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c786b69630dc9f390800000000000000
+      internalID: -7783965066395948932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_194
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a056fef946346edd0800000000000000
+      internalID: -2457202447224969974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_195
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5767864c86d66ff50800000000000000
+      internalID: 6914834574613182069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_196
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d508e1eb2997f150800000000000000
+      internalID: 5906357850072417747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_197
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb75a7cb026aa78f0800000000000000
+      internalID: -541938145613424708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_198
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc92d785aa03bbe0800000000000000
+      internalID: -1462813747900670768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_199
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e1fe44d3f963780800000000000000
+      internalID: -8703594144348561762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_200
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bc4a094bddba5e0800000000000000
+      internalID: -1897179050415961238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_201
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1965cb242e042580800000000000000
+      internalID: -8852935418987583202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_202
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7196a2282f277770800000000000000
+      internalID: 8608401062168531323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_203
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f23d74245d508650800000000000000
+      internalID: 6233084500251587313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_204
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a868e38388893d00800000000000000
+      internalID: 952942894600710313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_205
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7060b11fb4d1dedb0800000000000000
+      internalID: -4761117019055913465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_206
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0420c3d3825b0b960800000000000000
+      internalID: 7615786154314170944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_207
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd5aaa949091cf10800000000000000
+      internalID: 2288269053605338570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53b429f069a3afe0800000000000000
+      internalID: -1178912443479051428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_209
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d18b146d3ac52e80800000000000000
+      internalID: -8203928781164150312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_210
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675ac368d3d65a040800000000000000
+      internalID: 4658249500597200246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_211
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d07247213444ff0800000000000000
+      internalID: -52843549084414578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_212
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79560d2d05951c330800000000000000
+      internalID: 3729360170108609943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_213
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598540e9927a753f0800000000000000
+      internalID: -912076602332653419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_214
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5f98b2cf4395050800000000000000
+      internalID: 5789717053628347897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_215
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90f3b520545db090800000000000000
+      internalID: -8017159058442948451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_216
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eed971c1d9ff55e0800000000000000
+      internalID: -1918540236947071260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_217
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602e511d7bcc34250800000000000000
+      internalID: 5927806624408658438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_218
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f407878ffda1393b0800000000000000
+      internalID: -5507028370095312817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_219
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ae9a70c8439bfa0800000000000000
+      internalID: -5784534470352049634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_220
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44596b6fbef500940800000000000000
+      internalID: 5260309831829853508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_221
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc205d40624d2810800000000000000
+      internalID: 1742121612243643585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_222
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c05af4cec8146bf0800000000000000
+      internalID: -332113196171505466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_223
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28997b905a3778730800000000000000
+      internalID: 4001293946611800450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c690cd4b531ccc8e0800000000000000
+      internalID: -1671748925249549972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_225
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11057ad330907cb90800000000000000
+      internalID: -7221793567941373935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_226
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5651706312cafdab0800000000000000
+      internalID: -4981073404208147099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_227
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05de0c23443e92ad0800000000000000
+      internalID: -2726398217347338928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_228
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73561cf138b4e7eb0800000000000000
+      internalID: -4720252332892134089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_229
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84c0f428faae8320800000000000000
+      internalID: 2562173220768760970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_230
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654c23a5d79cc73d0800000000000000
+      internalID: -3207467294373264298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_231
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed3749e7527d29c0800000000000000
+      internalID: -3950375576232575509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_232
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36af52789a9975510800000000000000
+      internalID: 1537866751166249571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_233
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65c7fc37f46212c0800000000000000
+      internalID: -4462393267728169617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_234
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58372d71612601140800000000000000
+      internalID: 4688355059121156997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_235
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6a985362394ff30800000000000000
+      internalID: 4608470111023113967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_236
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46744bbf821d67910800000000000000
+      internalID: 1834883872151848804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_237
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d4203464ed9e790800000000000000
+      internalID: -7500219311055549144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_238
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c345e0a3a25fdbc0800000000000000
+      internalID: -3756192701471177787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_239
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476a31872f10d71f0800000000000000
+      internalID: -1045677397571819916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63757d0d055e1c070800000000000000
+      internalID: 8125027338017003318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_241
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ff27262cac454a0800000000000000
+      internalID: -6605431817221505165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_242
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb0bf04b89003610800000000000000
+      internalID: 1598788361411824565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_243
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e93cfc1b057424c0800000000000000
+      internalID: -4313193852522710555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_244
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf6a70dddd5627e0800000000000000
+      internalID: -1790640594566352971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_245
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e5036e0b0810a00800000000000000
+      internalID: 720998912620519009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_246
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981277134ffcab500800000000000000
+      internalID: 412870963566682505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_247
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1485b9d4103fe9780800000000000000
+      internalID: -8674228645346453439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_248
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f91919a75af0b690800000000000000
+      internalID: -7588290117713192464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_249
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5219ec5a0b2a85320800000000000000
+      internalID: 2546964468857737509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_250
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2439f1af41793f0800000000000000
+      internalID: -894222936505630030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_251
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54477c61f48910670800000000000000
+      internalID: 8503245036904215621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_252
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7238197a3505740800000000000000
+      internalID: 5138699153995671547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_253
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fd40e1211201970800000000000000
+      internalID: 8723508839913414435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_254
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884c53a488751f050800000000000000
+      internalID: 5832539235293709448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowland 2 Color 2@64x64_255
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f190900d27d5f0990800000000000000
+      internalID: -7417607313558009569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2036782a0631ab047afbf7b0125eb598
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Snowland 2 Color 2@64x64_0: 4600619682712810074
+      Snowland 2 Color 2@64x64_1: 5400009249262734285
+      Snowland 2 Color 2@64x64_10: -8460716875946573275
+      Snowland 2 Color 2@64x64_100: -5100937913428037632
+      Snowland 2 Color 2@64x64_101: -4614582499943870679
+      Snowland 2 Color 2@64x64_102: -4966881418016636278
+      Snowland 2 Color 2@64x64_103: -228911652339175478
+      Snowland 2 Color 2@64x64_104: -8118863768662815444
+      Snowland 2 Color 2@64x64_105: -742179272166853059
+      Snowland 2 Color 2@64x64_106: 2475800801269940846
+      Snowland 2 Color 2@64x64_107: 6509710996945278719
+      Snowland 2 Color 2@64x64_108: 500178927642418558
+      Snowland 2 Color 2@64x64_109: 435147053680304419
+      Snowland 2 Color 2@64x64_11: 1030223263658029022
+      Snowland 2 Color 2@64x64_110: 7652184249162555528
+      Snowland 2 Color 2@64x64_111: 2575870902192793102
+      Snowland 2 Color 2@64x64_112: -3988263221357352623
+      Snowland 2 Color 2@64x64_113: 5384141853550768971
+      Snowland 2 Color 2@64x64_114: -4958846196175897461
+      Snowland 2 Color 2@64x64_115: -294558923680943920
+      Snowland 2 Color 2@64x64_116: -7064344930620718362
+      Snowland 2 Color 2@64x64_117: 6369440720431508053
+      Snowland 2 Color 2@64x64_118: -6891202404894173503
+      Snowland 2 Color 2@64x64_119: 2053143268300342832
+      Snowland 2 Color 2@64x64_12: -8369385406826548057
+      Snowland 2 Color 2@64x64_120: 2562628352152695862
+      Snowland 2 Color 2@64x64_121: 2980987822153114223
+      Snowland 2 Color 2@64x64_122: -7081463484103666688
+      Snowland 2 Color 2@64x64_123: -4881653241132245985
+      Snowland 2 Color 2@64x64_124: 6020760113100124207
+      Snowland 2 Color 2@64x64_125: 2492065886172385993
+      Snowland 2 Color 2@64x64_126: -42796908004147890
+      Snowland 2 Color 2@64x64_127: 7072192894557557172
+      Snowland 2 Color 2@64x64_128: 4926448180417421107
+      Snowland 2 Color 2@64x64_129: -4344627050029924872
+      Snowland 2 Color 2@64x64_13: 578609399611227973
+      Snowland 2 Color 2@64x64_130: 486747711621627769
+      Snowland 2 Color 2@64x64_131: -2325547301626525725
+      Snowland 2 Color 2@64x64_132: -6887885106814354092
+      Snowland 2 Color 2@64x64_133: 1818436005567737744
+      Snowland 2 Color 2@64x64_134: -7146571217723949738
+      Snowland 2 Color 2@64x64_135: 917715973594452106
+      Snowland 2 Color 2@64x64_136: 1355600764536172293
+      Snowland 2 Color 2@64x64_137: -2542612912376725524
+      Snowland 2 Color 2@64x64_138: -3378523533115126986
+      Snowland 2 Color 2@64x64_139: 4963472857203959702
+      Snowland 2 Color 2@64x64_14: -7370775693845276941
+      Snowland 2 Color 2@64x64_140: 6308135313390225251
+      Snowland 2 Color 2@64x64_141: 3581436614855849542
+      Snowland 2 Color 2@64x64_142: 2920195223681850038
+      Snowland 2 Color 2@64x64_143: -5294458221970092401
+      Snowland 2 Color 2@64x64_144: -5276410045419089609
+      Snowland 2 Color 2@64x64_145: 7943321635784421759
+      Snowland 2 Color 2@64x64_146: -7914659420458693715
+      Snowland 2 Color 2@64x64_147: -669899420460738438
+      Snowland 2 Color 2@64x64_148: -2372814856746952482
+      Snowland 2 Color 2@64x64_149: 2175407477302118670
+      Snowland 2 Color 2@64x64_15: -2447788828522614626
+      Snowland 2 Color 2@64x64_150: -1709108248058199195
+      Snowland 2 Color 2@64x64_151: 6233124669772794439
+      Snowland 2 Color 2@64x64_152: -5762732822814140673
+      Snowland 2 Color 2@64x64_153: 1257494085249397426
+      Snowland 2 Color 2@64x64_154: 2853656085578668097
+      Snowland 2 Color 2@64x64_155: 4217549909482020354
+      Snowland 2 Color 2@64x64_156: -5414707899183280183
+      Snowland 2 Color 2@64x64_157: -4268211476404992410
+      Snowland 2 Color 2@64x64_158: -324311161925877318
+      Snowland 2 Color 2@64x64_159: 1223742205653259490
+      Snowland 2 Color 2@64x64_16: -7006833149919578026
+      Snowland 2 Color 2@64x64_160: -1693600992620783643
+      Snowland 2 Color 2@64x64_161: -2206952498417619786
+      Snowland 2 Color 2@64x64_162: 6377171248083894330
+      Snowland 2 Color 2@64x64_163: -8740272054037777996
+      Snowland 2 Color 2@64x64_164: 8630211291822829712
+      Snowland 2 Color 2@64x64_165: -5231596127643859644
+      Snowland 2 Color 2@64x64_166: -1550940096802338041
+      Snowland 2 Color 2@64x64_167: 8669350737474855951
+      Snowland 2 Color 2@64x64_168: -4851671114225514284
+      Snowland 2 Color 2@64x64_169: -2659456142501985351
+      Snowland 2 Color 2@64x64_17: 1136804481402244418
+      Snowland 2 Color 2@64x64_170: 2737922136888332195
+      Snowland 2 Color 2@64x64_171: 8515933306349121013
+      Snowland 2 Color 2@64x64_172: 7563371533871838937
+      Snowland 2 Color 2@64x64_173: -4465201010339715737
+      Snowland 2 Color 2@64x64_174: -2186534087833399272
+      Snowland 2 Color 2@64x64_175: -7411680945084766038
+      Snowland 2 Color 2@64x64_176: -3655750690557075441
+      Snowland 2 Color 2@64x64_177: -3595070708375798411
+      Snowland 2 Color 2@64x64_178: -1468931469194821294
+      Snowland 2 Color 2@64x64_179: -248132939130592401
+      Snowland 2 Color 2@64x64_18: -6517382011199398962
+      Snowland 2 Color 2@64x64_180: 3678101523223437671
+      Snowland 2 Color 2@64x64_181: -53543343189598857
+      Snowland 2 Color 2@64x64_182: 7866524218614218516
+      Snowland 2 Color 2@64x64_183: 8166247397163496535
+      Snowland 2 Color 2@64x64_184: -4388810798977626051
+      Snowland 2 Color 2@64x64_185: -7764731777227513510
+      Snowland 2 Color 2@64x64_186: -1412805120827129110
+      Snowland 2 Color 2@64x64_187: 5257895502882406524
+      Snowland 2 Color 2@64x64_188: 5454432526490386071
+      Snowland 2 Color 2@64x64_189: 4917208602723612078
+      Snowland 2 Color 2@64x64_19: -3343152186080656495
+      Snowland 2 Color 2@64x64_190: 117534605076074905
+      Snowland 2 Color 2@64x64_191: 4138496585177115091
+      Snowland 2 Color 2@64x64_192: 5283498649962070028
+      Snowland 2 Color 2@64x64_193: -7783965066395948932
+      Snowland 2 Color 2@64x64_194: -2457202447224969974
+      Snowland 2 Color 2@64x64_195: 6914834574613182069
+      Snowland 2 Color 2@64x64_196: 5906357850072417747
+      Snowland 2 Color 2@64x64_197: -541938145613424708
+      Snowland 2 Color 2@64x64_198: -1462813747900670768
+      Snowland 2 Color 2@64x64_199: -8703594144348561762
+      Snowland 2 Color 2@64x64_2: 3619909560801197112
+      Snowland 2 Color 2@64x64_20: 1144873029900125720
+      Snowland 2 Color 2@64x64_200: -1897179050415961238
+      Snowland 2 Color 2@64x64_201: -8852935418987583202
+      Snowland 2 Color 2@64x64_202: 8608401062168531323
+      Snowland 2 Color 2@64x64_203: 6233084500251587313
+      Snowland 2 Color 2@64x64_204: 952942894600710313
+      Snowland 2 Color 2@64x64_205: -4761117019055913465
+      Snowland 2 Color 2@64x64_206: 7615786154314170944
+      Snowland 2 Color 2@64x64_207: 2288269053605338570
+      Snowland 2 Color 2@64x64_208: -1178912443479051428
+      Snowland 2 Color 2@64x64_209: -8203928781164150312
+      Snowland 2 Color 2@64x64_21: -3127769196203118974
+      Snowland 2 Color 2@64x64_210: 4658249500597200246
+      Snowland 2 Color 2@64x64_211: -52843549084414578
+      Snowland 2 Color 2@64x64_212: 3729360170108609943
+      Snowland 2 Color 2@64x64_213: -912076602332653419
+      Snowland 2 Color 2@64x64_214: 5789717053628347897
+      Snowland 2 Color 2@64x64_215: -8017159058442948451
+      Snowland 2 Color 2@64x64_216: -1918540236947071260
+      Snowland 2 Color 2@64x64_217: 5927806624408658438
+      Snowland 2 Color 2@64x64_218: -5507028370095312817
+      Snowland 2 Color 2@64x64_219: -5784534470352049634
+      Snowland 2 Color 2@64x64_22: -1702041367042280668
+      Snowland 2 Color 2@64x64_220: 5260309831829853508
+      Snowland 2 Color 2@64x64_221: 1742121612243643585
+      Snowland 2 Color 2@64x64_222: -332113196171505466
+      Snowland 2 Color 2@64x64_223: 4001293946611800450
+      Snowland 2 Color 2@64x64_224: -1671748925249549972
+      Snowland 2 Color 2@64x64_225: -7221793567941373935
+      Snowland 2 Color 2@64x64_226: -4981073404208147099
+      Snowland 2 Color 2@64x64_227: -2726398217347338928
+      Snowland 2 Color 2@64x64_228: -4720252332892134089
+      Snowland 2 Color 2@64x64_229: 2562173220768760970
+      Snowland 2 Color 2@64x64_23: -1463983527095338256
+      Snowland 2 Color 2@64x64_230: -3207467294373264298
+      Snowland 2 Color 2@64x64_231: -3950375576232575509
+      Snowland 2 Color 2@64x64_232: 1537866751166249571
+      Snowland 2 Color 2@64x64_233: -4462393267728169617
+      Snowland 2 Color 2@64x64_234: 4688355059121156997
+      Snowland 2 Color 2@64x64_235: 4608470111023113967
+      Snowland 2 Color 2@64x64_236: 1834883872151848804
+      Snowland 2 Color 2@64x64_237: -7500219311055549144
+      Snowland 2 Color 2@64x64_238: -3756192701471177787
+      Snowland 2 Color 2@64x64_239: -1045677397571819916
+      Snowland 2 Color 2@64x64_24: -2550104131708716341
+      Snowland 2 Color 2@64x64_240: 8125027338017003318
+      Snowland 2 Color 2@64x64_241: -6605431817221505165
+      Snowland 2 Color 2@64x64_242: 1598788361411824565
+      Snowland 2 Color 2@64x64_243: -4313193852522710555
+      Snowland 2 Color 2@64x64_244: -1790640594566352971
+      Snowland 2 Color 2@64x64_245: 720998912620519009
+      Snowland 2 Color 2@64x64_246: 412870963566682505
+      Snowland 2 Color 2@64x64_247: -8674228645346453439
+      Snowland 2 Color 2@64x64_248: -7588290117713192464
+      Snowland 2 Color 2@64x64_249: 2546964468857737509
+      Snowland 2 Color 2@64x64_25: -4771477127644895636
+      Snowland 2 Color 2@64x64_250: -894222936505630030
+      Snowland 2 Color 2@64x64_251: 8503245036904215621
+      Snowland 2 Color 2@64x64_252: 5138699153995671547
+      Snowland 2 Color 2@64x64_253: 8723508839913414435
+      Snowland 2 Color 2@64x64_254: 5832539235293709448
+      Snowland 2 Color 2@64x64_255: -7417607313558009569
+      Snowland 2 Color 2@64x64_26: -9030675540862085586
+      Snowland 2 Color 2@64x64_27: 3520209080160746255
+      Snowland 2 Color 2@64x64_28: -190982471768091455
+      Snowland 2 Color 2@64x64_29: 1814594620849595358
+      Snowland 2 Color 2@64x64_3: -5592604303696245251
+      Snowland 2 Color 2@64x64_30: -7055295454510833774
+      Snowland 2 Color 2@64x64_31: 8176932201290048237
+      Snowland 2 Color 2@64x64_32: -9081257556391416023
+      Snowland 2 Color 2@64x64_33: -1909183583616562669
+      Snowland 2 Color 2@64x64_34: -3149617270134629111
+      Snowland 2 Color 2@64x64_35: 1927503517360992812
+      Snowland 2 Color 2@64x64_36: -6191898621656420723
+      Snowland 2 Color 2@64x64_37: -863703638339892310
+      Snowland 2 Color 2@64x64_38: -4158826434734820600
+      Snowland 2 Color 2@64x64_39: 8336303923762987613
+      Snowland 2 Color 2@64x64_4: 8141428592305243466
+      Snowland 2 Color 2@64x64_40: -2859866754103955447
+      Snowland 2 Color 2@64x64_41: -5078459859537958771
+      Snowland 2 Color 2@64x64_42: 2783844418961744151
+      Snowland 2 Color 2@64x64_43: 1842766265615906954
+      Snowland 2 Color 2@64x64_44: 2532019232091939564
+      Snowland 2 Color 2@64x64_45: 8243604857050021842
+      Snowland 2 Color 2@64x64_46: 5123057693190104711
+      Snowland 2 Color 2@64x64_47: 1122964649627571425
+      Snowland 2 Color 2@64x64_48: 2525869162276827664
+      Snowland 2 Color 2@64x64_49: 8450349365308495780
+      Snowland 2 Color 2@64x64_5: 6740112734220156690
+      Snowland 2 Color 2@64x64_50: 7401396378876373176
+      Snowland 2 Color 2@64x64_51: -5969075991503203864
+      Snowland 2 Color 2@64x64_52: -7908448719316528931
+      Snowland 2 Color 2@64x64_53: -4670562540994126551
+      Snowland 2 Color 2@64x64_54: 825472223927721270
+      Snowland 2 Color 2@64x64_55: -9062349436473497791
+      Snowland 2 Color 2@64x64_56: -3358025797211525799
+      Snowland 2 Color 2@64x64_57: -2880259125392807751
+      Snowland 2 Color 2@64x64_58: 1799156530237971767
+      Snowland 2 Color 2@64x64_59: 7471412301411817757
+      Snowland 2 Color 2@64x64_6: 3312421838597608714
+      Snowland 2 Color 2@64x64_60: -6095869311973762697
+      Snowland 2 Color 2@64x64_61: 4430942439699331958
+      Snowland 2 Color 2@64x64_62: -8364524316981834482
+      Snowland 2 Color 2@64x64_63: -4747883717088788546
+      Snowland 2 Color 2@64x64_64: 4022163070381915710
+      Snowland 2 Color 2@64x64_65: -3033482829792929271
+      Snowland 2 Color 2@64x64_66: 2179088668679499761
+      Snowland 2 Color 2@64x64_67: -643614135702277791
+      Snowland 2 Color 2@64x64_68: -8279655540897499657
+      Snowland 2 Color 2@64x64_69: -6856893644128808557
+      Snowland 2 Color 2@64x64_7: 6613765344525352364
+      Snowland 2 Color 2@64x64_70: 380996569386109170
+      Snowland 2 Color 2@64x64_71: -1231681282293254878
+      Snowland 2 Color 2@64x64_72: 4225397253457733286
+      Snowland 2 Color 2@64x64_73: 9129522323053177827
+      Snowland 2 Color 2@64x64_74: -4123857493187945278
+      Snowland 2 Color 2@64x64_75: -7455887256488977035
+      Snowland 2 Color 2@64x64_76: 6996173181021002289
+      Snowland 2 Color 2@64x64_77: -2413855189685368677
+      Snowland 2 Color 2@64x64_78: 7424506496137139497
+      Snowland 2 Color 2@64x64_79: -265598236223959377
+      Snowland 2 Color 2@64x64_8: -4133198344360059504
+      Snowland 2 Color 2@64x64_80: -2754533580290008222
+      Snowland 2 Color 2@64x64_81: 2750676850415204397
+      Snowland 2 Color 2@64x64_82: -1599638856680661314
+      Snowland 2 Color 2@64x64_83: 7108738842823310809
+      Snowland 2 Color 2@64x64_84: 7013771387449517597
+      Snowland 2 Color 2@64x64_85: -1490206009392081748
+      Snowland 2 Color 2@64x64_86: -1618692606459814367
+      Snowland 2 Color 2@64x64_87: -4041043879703136302
+      Snowland 2 Color 2@64x64_88: -5734044629578771993
+      Snowland 2 Color 2@64x64_89: 4068095847348380642
+      Snowland 2 Color 2@64x64_9: -8429172657164292899
+      Snowland 2 Color 2@64x64_90: -3372185299161051362
+      Snowland 2 Color 2@64x64_91: 5987306046391281095
+      Snowland 2 Color 2@64x64_92: -6028000717234420398
+      Snowland 2 Color 2@64x64_93: -4040071294732337717
+      Snowland 2 Color 2@64x64_94: -2784031287474983363
+      Snowland 2 Color 2@64x64_95: -244760758902563952
+      Snowland 2 Color 2@64x64_96: 7696353628641714512
+      Snowland 2 Color 2@64x64_97: 5776067273590784607
+      Snowland 2 Color 2@64x64_98: 8613530264024679083
+      Snowland 2 Color 2@64x64_99: -3652773832266523245
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

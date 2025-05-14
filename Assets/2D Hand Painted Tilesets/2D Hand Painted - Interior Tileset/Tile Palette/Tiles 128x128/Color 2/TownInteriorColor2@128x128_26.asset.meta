@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 00cba30e9a12abd408e43ac6b75f744c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66953
+  packageName: 2D Hand Painted - Interior Tileset
+  packageVersion: 2
+  assetPath: Assets/2D Hand Painted Tilesets/2D Hand Painted - Interior Tileset/Tile
+    Palette/Tiles 128x128/Color 2/TownInteriorColor2@128x128_26.asset
+  uploadId: 394363

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 016cd1fc9250f63418ee0b043a8b881f
+timeCreated: 1511313928
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105810
+  packageName: 2D Hand Painted - Mine Tileset
+  packageVersion: 2
+  assetPath: Assets/2D Hand Painted Tilesets/2D Hand Painted - Mine Tileset/Tile
+    Palette/Tiles 128x128/Mine@128x128_206.asset
+  uploadId: 394374
