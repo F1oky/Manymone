@@ -1,4 +1,4 @@
-
+using System.Collections;
 using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
@@ -6,12 +6,6 @@ public class PlayerMovement : MonoBehaviour
     public float moveSpeed = 5f;
     private bool isMoving;
     private Vector2 input;
-    private Vector3 targetPos;
-
-    void Start()
-    {
-        targetPos = transform.position;
-    }
 
     void Update()
     {
@@ -20,23 +14,25 @@ public class PlayerMovement : MonoBehaviour
         input.x = Input.GetAxisRaw("Horizontal");
         input.y = Input.GetAxisRaw("Vertical");
 
+        // empêcher les diagonales
+        if (input.x != 0) input.y = 0;
+
         if (input != Vector2.zero)
         {
-            input.y = (input.x != 0) ? 0 : input.y; // interdit diagonale
-            var target = transform.position + new Vector3(input.x, input.y, 0);
-            StartCoroutine(Move(target));
+            Vector3 targetPos = transform.position + new Vector3(input.x, input.y, 0);
+            StartCoroutine(Move(targetPos));
         }
     }
 
-    System.Collections.IEnumerator Move(Vector3 target)
+    IEnumerator Move(Vector3 targetPos)
     {
         isMoving = true;
-        while ((target - transform.position).sqrMagnitude > Mathf.Epsilon)
+        while ((targetPos - transform.position).sqrMagnitude > Mathf.Epsilon)
         {
-            transform.position = Vector3.MoveTowards(transform.position, target, moveSpeed * Time.deltaTime);
+            transform.position = Vector3.MoveTowards(transform.position, targetPos, moveSpeed * Time.deltaTime);
             yield return null;
         }
-        transform.position = target;
+        transform.position = targetPos;
         isMoving = false;
     }
 }
